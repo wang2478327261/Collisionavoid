@@ -9,7 +9,7 @@ This is my first software, so it's my first try, code is bad, but is my one step
 
 # 版本故事
 
-## 这里是第一个版本，毕业设计，模仿的俄罗斯方块和贪吃蛇的代码，感谢传智播客的资料m(__)m
+## 这里是第一个版本，毕业设计，模仿的俄罗斯方块和贪吃蛇的代码，感谢[传智播客](http://www.itcast.cn/)的资料m(__)m
 [船舶避碰V1](https://github.com/NAVERON/Collisionavoid)
 
 ## 第二个版本是对V1版本的改进，解决多线程显示不同步问题，设计自己的程序结构，程序更加流畅，不存在加载缓慢的问题
