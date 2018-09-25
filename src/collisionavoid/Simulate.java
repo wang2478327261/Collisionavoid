@@ -14,6 +14,7 @@ import javax.swing.JTextField;
 import javax.swing.SwingConstants;
 import javax.swing.border.EmptyBorder;
 
+
 public class Simulate extends JFrame {//输入坐标时用，分隔
 	
 	private JPanel golbal;
